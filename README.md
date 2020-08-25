@@ -1,2 +1,2 @@
 # leads
-Lead collection and retrieval MVC based (Revel) REST service
+A RESTful API for lead collection and retrieval
